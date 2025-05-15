@@ -6,5 +6,5 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 add_executable(NetoVariables 
 firstTask.cpp 
-//secondTask.cpp
+#secondTask.cpp
 )
